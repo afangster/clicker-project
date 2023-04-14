@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clicker-project/static/css/main.3fc504bf.css",
+    "main.js": "/clicker-project/static/js/main.c8ee4353.js",
+    "index.html": "/clicker-project/index.html",
+    "main.3fc504bf.css.map": "/clicker-project/static/css/main.3fc504bf.css.map",
+    "main.c8ee4353.js.map": "/clicker-project/static/js/main.c8ee4353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc504bf.css",
+    "static/js/main.c8ee4353.js"
+  ]
+}
